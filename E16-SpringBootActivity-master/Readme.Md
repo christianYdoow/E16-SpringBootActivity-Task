@@ -2,7 +2,7 @@
 
 **General Information:**
 
-- Submitted by: [Christian Ydoow B. Ramirez](https://github.com/christianYdoow?tab=repositories)
+- Submitted by: [Christian Ydoow B. Ramirez](https://github.com/christianYdoow/E16-SpringBootActivity-Task/tree/master/E16-SpringBootActivity-master)
 - Email: christian.ramirez@novare.com.hk
 
 ---
